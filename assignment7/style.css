@@ -1,0 +1,31 @@
+/* Exercise 1 */
+h1, h2 {
+  color: darkgreen;          /* changed from purple */
+}
+
+p {
+  color: gray;
+}
+
+/* Exercise 2 */
+ul {
+  border: 2px solid saddlebrown;   /* changed from orange */
+}
+
+ol {
+  border: 2px solid darkgreen;     /* changed from purple */
+}
+
+ol, ul {
+  padding: 10px 30px;        /* changed from 5px 20px */
+  border-radius: 8px;        /* changed from 4px */
+}
+
+/* Exercise 3 */
+h1, strong {
+  color: darkgreen;          /* changed from purple */
+}
+
+em {
+  color: gray;
+}
